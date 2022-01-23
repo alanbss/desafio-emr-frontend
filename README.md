@@ -8,8 +8,8 @@ ReactJS with ReactBootstrap and ReactRouter
 
 ##How to use?
 
-npm install
-npm start
+- npm install
+- npm start
 
 ##Main Features
 
