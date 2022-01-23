@@ -1,16 +1,16 @@
-#Desafio Desenvolvedor Junior FRONT-END
+# Desafio Desenvolvedor Junior FRONT-END
 
 Front-end for company employees and roles management
 
-##Using:
+## Using:
 
 ReactJS with ReactBootstrap and ReactRouter
 
-##How to use?
+## How to use?
 
-npm install
-npm start
+- npm install
+- npm start
 
-##Main Features
+## Main Features
 
 -- Allow user to create, read, update and destroy a employee or a role
